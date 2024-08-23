@@ -14,7 +14,7 @@ This repository contains a collection of projects developed during my web develo
 
 ## Note on GitHub Pages
 
-Please note that GitHub Pages has not been configured for these specific sections of the repository, except for the **Auto Zenith** project. If you wish to view the other projects, you can clone the repository to your local machine and explore the different sections.
+Please note that GitHub Pages has not been configured for these specific sections of the repository. If you wish to view the other projects, you can clone the repository to your local machine and explore the different sections.
 
 ### How to Clone and View
 
