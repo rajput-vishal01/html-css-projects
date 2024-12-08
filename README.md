@@ -5,12 +5,11 @@ This repository contains a collection of projects developed during my web develo
 ## Projects
 
 1. **Basics (HTML-CSS):** A project covering the fundamental concepts of HTML and CSS, laying the groundwork for web development.
-2. **Cards (HTML-CSS):** A collection of card designs demonstrating layout and styling techniques using HTML and CSS.
-3. **Blog (HTML-CSS):** A simple blog layout created with HTML and CSS, focusing on responsive design and content structure.
-4. **StudySync (HTML-CSS):** A project designed to simulate an educational platform interface using HTML and CSS.
-5. **Facebook Login Page (HTML-Tailwind CSS):** A replica of the Facebook login page, styled using Tailwind CSS to demonstrate utility-first CSS framework usage.
-6. **Microsoft Webpage (HTML-Tailwind CSS):** A clone of the Microsoft homepage, showcasing responsive design and advanced CSS techniques with Tailwind CSS.
-7. **Auto Zenith:** A project for a car-related webpage, focusing on interactive design and advanced web development techniques.
+2. **Blog (HTML-CSS):** A simple blog layout created with HTML and CSS, focusing on responsive design and content structure.
+3. **StudySync (HTML-CSS):** A project designed to simulate an educational platform interface using HTML and CSS.
+4. **Facebook Login Page (HTML-Tailwind CSS):** A replica of the Facebook login page, styled using Tailwind CSS to demonstrate utility-first CSS framework usage.
+5. **Microsoft Webpage (HTML-Tailwind CSS):** A clone of the Microsoft homepage, showcasing responsive design and advanced CSS techniques with Tailwind CSS.
+6. **Auto Zenith:** A project for a car-related webpage, focusing on interactive design and advanced web development techniques.
 
 ## Note on GitHub Pages
 
